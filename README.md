@@ -40,3 +40,4 @@ We recommend launching **instant world tracking** and **image tracked** projects
 1. Ensure the device is on the same local network (e.g. Wifi)
 2. Find out the IP address of your computer
 3. On your mobile device, visit: `https://YOUR-IP-ADDRESS:PORT` replacing both `YOUR-IP-ADDRESS` and `PORT` (the port is the number after the `:` in the address given by `parcel`). Note it's important to type `https` at the start of the address to ensure your device connects over HTTP**S**.
+# ar-app-three
